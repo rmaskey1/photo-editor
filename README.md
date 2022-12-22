@@ -1,1 +1,1 @@
-# cs131
+# CMPE 131: Photo Editor
